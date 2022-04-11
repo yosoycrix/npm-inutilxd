@@ -1,6 +1,6 @@
 {
   "name": "npm-inutilxd",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "dummy module",
   "main": "src/index.js",
   "scripts": {
@@ -15,5 +15,13 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "express": "^4.17.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosoycrix/npm-inutilxd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yosoycrix/npm-inutilxd/issues"
+  },
+  "homepage": "https://github.com/yosoycrix/npm-inutilxd#readme"
 }
